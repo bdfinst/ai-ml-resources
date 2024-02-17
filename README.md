@@ -1,5 +1,7 @@
 # AI ML Resources
 
+## Learning references
+
 Collected notes and references
 
 - [Learning LLMs and GenAI for Dev,Sec,Ops](https://github.com/jedi4ever/learning-llms-and-genai-for-dev-sec-ops/blob/main/README.md)
@@ -8,3 +10,7 @@ Collected notes and references
 - [Don't Build AI Products The Way Everyone Else Is Doing It](https://www.builder.io/blog/build-ai)
 - [Detailed implementation of a Transformer model in
   Tensorflow](https://towardsdatascience.com/attention-is-all-you-need-discovering-the-transformer-paper-73e5ff5e0634)
+
+## Tools
+
+[T5X - Text-to-Text Transfer Transformer](https://github.com/google-research/t5x)
