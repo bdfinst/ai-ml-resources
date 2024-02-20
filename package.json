@@ -1,0 +1,20 @@
+{
+  "name": "md-2-pdf",
+  "version": "1.0.0",
+  "description": "## Learning references",
+  "license": "ISC",
+  "author": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "markdown-pdf": "^11.0.0",
+    "simple-git": "^3.22.0",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
