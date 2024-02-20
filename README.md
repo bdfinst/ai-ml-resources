@@ -15,6 +15,7 @@ Collected notes and references
 
 - [T5X - Text-to-Text Transfer Transformer](https://github.com/google-research/t5x)
 - [Verba - he Golden RAGtriever](https://github.com/weaviate/Verba)
+- [DSPy - GenAI delivery pipeline](https://github.com/stanfordnlp/dspy)
 
 ## Example Platforms
 
