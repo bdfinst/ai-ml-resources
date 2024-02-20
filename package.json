@@ -9,6 +9,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "glob": "^10.3.10",
     "js-yaml": "^4.1.0",
     "markdown-pdf": "^11.0.0",
     "simple-git": "^3.22.0",
