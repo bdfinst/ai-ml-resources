@@ -10,9 +10,17 @@ function parseCommandLineArguments(argv) {
     alias: 'u',
     describe: 'GitHub repository URL',
     type: 'string',
+    demandOption:
+      'A GitHub repository URL is required. Use --url or -u to specify the repository.',
   }).argv
 
-  return { repoUrl: args.url, branch: args.branch }
+  if (!args.url) {
+    throw new Error(
+      'A GitHub repository URL is required. Use --url or -u to specify the repository.'
+    )
+  }
+
+  return { repoUrl: args.url }
 }
 
 module.exports = { parseCommandLineArguments }
