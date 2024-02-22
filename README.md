@@ -10,6 +10,7 @@ Collected notes and references
 - [Don't Build AI Products The Way Everyone Else Is Doing It](https://www.builder.io/blog/build-ai)
 - [Detailed implementation of a Transformer model in Tensorflow](https://towardsdatascience.com/attention-is-all-you-need-discovering-the-transformer-paper-73e5ff5e0634)
 - [Building Boba AI - Martin Fowler](https://martinfowler.com/articles/building-boba.html)
+- [Building Production-Ready RAG Applications: Jerry Liu](https://www.youtube.com/watch?v=TRjq7t2Ms5I)
 
 ## Tools
 
