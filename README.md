@@ -26,3 +26,7 @@ Collected notes and references
 ## Activities
 
 - [Steps for training an NLP](docs/NLP-training.md)
+
+## OS Projects
+
+- [Quivr](https://docs.quivr.app/home/intro) is your Second Brain that can act as your personal assistant.
