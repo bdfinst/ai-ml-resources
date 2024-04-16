@@ -11,6 +11,7 @@ Collected notes and references
 - [Detailed implementation of a Transformer model in Tensorflow](https://towardsdatascience.com/attention-is-all-you-need-discovering-the-transformer-paper-73e5ff5e0634)
 - [Building Boba AI - Martin Fowler](https://martinfowler.com/articles/building-boba.html)
 - [Building Production-Ready RAG Applications: Jerry Liu](https://www.youtube.com/watch?v=TRjq7t2Ms5I)
+- [An example of LLM prompting for programming - Martin Fowler](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
 
 ## Tools
 
