@@ -13,11 +13,12 @@ Collected notes and references
 - [DevOps AI Assistant Open Leaderboard](https://github.com/opstower-ai/devops-ai-open-leaderboard)
 - [IndyDevDan AI workflow videos](https://www.youtube.com/@indydevdan/playlists)
 - [Tessl - startup focused on AI dev patterns](https://www.tessl.io/podcast)
+- [An example of LLM prompting for programming - Martin Fowler](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
 
 ## Tools
 
 - [T5X - Text-to-Text Transfer Transformer](https://github.com/google-research/t5x)
-- [Verba - he Golden RAGtriever](https://github.com/weaviate/Verba)
+- [Verba - The Golden RAGtriever](https://github.com/weaviate/Verba)
 - [DSPy - GenAI delivery pipeline](https://github.com/stanfordnlp/dspy)
 - [OpenDevin AI agent IDE](https://github.com/OpenDevin/OpenDevin)
 - [Cursor AI IDE](https://www.cursor.com/)
@@ -33,3 +34,7 @@ Collected notes and references
 ## Activities
 
 - [Steps for training an NLP](docs/NLP-training.md)
+
+## OS Projects
+
+- [Quivr](https://docs.quivr.app/home/intro) is your Second Brain that can act as your personal assistant.

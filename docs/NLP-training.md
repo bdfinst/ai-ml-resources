@@ -1,4 +1,8 @@
-# Training NLP Steps
+---
+title: Training NLP
+---
+
+## Training NLP Steps
 
 Training a model for Natural Language Processing (NLP) to understand unstructured documentation in a network-detached (or air-gapped) environment involves a series of steps from data preparation to deployment. Here's a structured approach to accomplish this:
 
