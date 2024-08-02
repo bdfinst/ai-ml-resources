@@ -24,6 +24,7 @@ Collected notes and references
 - [Aider - AI pair programming in your terminal](https://aider.chat/)
 - [Kubiya - AI Infrastructure in Slack](https://www.kubiya.ai/)
 - [Continue - OS AI IDE plugin](https://www.continue.dev/)
+- [Glamorous Toolkit (GT) is the Moldable Development Environment](https://gtoolkit.com/)
 
 ## Example Platforms
 
